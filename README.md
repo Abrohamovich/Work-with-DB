@@ -6,6 +6,7 @@
 1. I created database `my_database`
 
 ![Alt text](screenshots/Screenshot-1.png "Title")
+
 2. I created table `t_user` with fields:
    1. `id` - INT, AUTO_INCREMENT, PRIMARY KEY
    2. `name` - VARCHAR(256)
@@ -13,6 +14,7 @@
    4. `email` - VARCHAR(256)
 
 ![Alt text](screenshots/Screenshot-3.png "Title")
+
 3. I insert some data(name, email, age) in table
    1. 'John Doe', 'john.doe@test.com', 30
    2. 'Jane Doe', 'jane.doe@test.com', 27
@@ -20,6 +22,7 @@
 4. I went through all the data from the table
 
 ![Alt text](screenshots/Screenshot-4.png "Title")
+
 5. I deleted user with name `Bob` and checked and verified 
 that the code was executed correctly
 
